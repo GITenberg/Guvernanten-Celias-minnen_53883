@@ -1,0 +1,25 @@
+_repo: Guvernanten-Celias-minnen_53883
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingelius, Axel Gabriel
+    birthdate: 1822
+    deathdate: 1868
+    gutenberg_agent_id: '45080'
+    url: http://www.gutenberg.org/2009/agents/45080
+    wikipedia: http://fi.wikipedia.org/wiki/Axel_Gabriel_Ingelius
+description: ''
+gutenberg_issued: '2017-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53883'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Guvernanten Celias minnen
+url: http://www.gutenberg.org/ebooks/53883
